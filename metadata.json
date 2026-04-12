@@ -1,0 +1,9 @@
+
+{
+  "name": "KickOff - Premium Futsal Booking System",
+  "description": "A comprehensive MERN-style futsal management platform featuring distinct interfaces for Users, Owners, and Admins. Manage bookings, venues, and platform analytics with ease.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
